@@ -1353,7 +1353,7 @@ const membersData = [
         ]
     },
     {
-        "name": "赵晨晞",
+        "name": "赵辰晞",
         "studentId": "3025208147",
         "photos": [
             "../images/28届预备队员/赵晨晞/1 (1).jpg",
